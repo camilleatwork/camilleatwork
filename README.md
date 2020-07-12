@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hey 👋, Camille here, a full stack web developer
+
+- 🔭 I currently manage the digital team for the [Free Library of Philadelphia](http://freelibrary.org/)
+- 🌱 I’m currently learning how to migrate from VMs to containers (docker)
+- 💬 Ask me about anything, I'm good at pointing people in the right direction if an answer isn't immediately known
+- 📫 How to reach me: [@camilleatwork](https://twitter.com/camilleatwork)
+- :tada: Let's connect on [LinkedIn](https://www.linkedin.com/in/camille-tomlin/)
+- 😄 Pronouns: she/her/hers
+- :books: Last 3 books I’ve read: *The Nickel Boys* by Colson Whitehead, *Ragtime* by E.L. Doctorow and *Sula* by Toni Morrison
+- ⚡ Fun fact: I :heart: *Star Trek The Next Generation* and would join Starfleet today :rocket: if possible
 
 <!--
 **camilleatwork/camilleatwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
