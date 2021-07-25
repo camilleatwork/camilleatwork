@@ -1,4 +1,4 @@
-## Hey 👋, Camille here, a full stack web developer
+## Hey 👋🏾, Camille here, a full stack web developer
 
 - 🔭 I currently manage the digital team for the [Free Library of Philadelphia](http://freelibrary.org/)
 - 🌱 I’m currently learning how to migrate from VMs to containers (docker)
