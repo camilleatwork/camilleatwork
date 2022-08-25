@@ -1,12 +1,11 @@
-## Hey 👋🏾, Camille here, a full stack web developer
+## Hey 👋🏾, Camille here, tech enthusiast by night, CTO by day
 
-- 🔭 I currently manage the digital team for the [Free Library of Philadelphia](http://freelibrary.org/)
-- 🌱 I’m currently learning how to migrate from VMs to containers (docker)
-- 💬 Ask me about anything, I'm good at pointing people in the right direction if an answer isn't immediately known
+- 🔭 I'm currently the Deputy Chief Technology Officer for the [Philadelphia International Airport](http://phl.org)
+- 🌱 I’m currently working to advance my knowledge and expertise of cloud computing and artificial intelligence
 - 📫 How to reach me: [@camilleatwork](https://twitter.com/camilleatwork)
 - :tada: Let's connect on [LinkedIn](https://www.linkedin.com/in/camille-tomlin/)
 - 😄 Pronouns: she/her/hers
-- :books: Last 3 books I’ve read: *The Nickel Boys* by Colson Whitehead, *Ragtime* by E.L. Doctorow and *Sula* by Toni Morrison
+- :books: Last 3 books I’ve read: *The Murderbot Diaries* series by Martha Wells, *The Collapsing Empire* by John Scalzi and *The Warmth of Other Suns: the Epic Story of America's Great Migration* by Isabel Wilkerson
 - ⚡ Fun fact: I :heart: *Star Trek The Next Generation* and would join Starfleet today :rocket: if possible
 
 <!--
